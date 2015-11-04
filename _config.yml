@@ -1,6 +1,6 @@
 name: tombryant
 favicon: null
-layout_spectrum: 0.8968264881987125
+layout_spectrum: 0
 typography_spectrum: 0.9554863676894456
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.8464720314368606
+  brandStrength: 0.5
   lightness: 0.7120206626132131
   saturation: 0.30845118477009237
   rhythmicContrast: 0.9545048594009131
